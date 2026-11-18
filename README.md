@@ -2,6 +2,8 @@
 
 **Abdelrahman Sadek** · November 17, 2026 · Version 2.0
 
+📄 [Download the PDF version](community-governed-decentralized-ai.pdf)
+
 ## Abstract
 
 We propose an AI system designed so that no single company, government, infrastructure provider or governance body holds unilateral control over it, while its community can stop, correct or upgrade it by majority vote. We treat this as a measurable design objective, not an absolute guarantee. Inference runs off-chain on a network of independent resource providers, while a blockchain holds coordination, payment and governance. Model updates are discovered automatically on Hugging Face, evaluated by randomly selected nodes, and adopted only after an on-chain vote and a timelock. The core principle is that the model executes governance decisions but never makes them: it cannot choose its own successor or influence the vote that controls it. A second founding goal is that the AI is free for all: anyone can use it at no cost, without an account, payment or token, funded by a protected free-access pool.

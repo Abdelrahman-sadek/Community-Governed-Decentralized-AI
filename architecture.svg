@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 672" width="760" height="672" role="img" aria-label="Discovery is automated; adoption is a community decision" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+  <rect x="0" y="0" width="760" height="672" fill="#ffffff"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#9a9a92"/>
+    </marker>
+  </defs>
+  <text x="24" y="34" font-size="15" font-weight="600" fill="#1f1f1d">Discovery is automated; adoption is a community decision</text>
+
+  <g fill="none" stroke="#9a9a92" stroke-width="1.25">
+    <path d="M224 120V152" marker-end="url(#arrow)"/>
+    <path d="M224 208V240" marker-end="url(#arrow)"/>
+    <path d="M224 296V328" marker-end="url(#arrow)"/>
+    <path d="M224 384V416" marker-end="url(#arrow)"/>
+    <path d="M480 180H440V344H424" marker-end="url(#arrow)"/>
+    <path d="M608 296V368H424" marker-end="url(#arrow)"/>
+    <path d="M480 444H424" marker-end="url(#arrow)"/>
+    <path d="M204 472V504" marker-end="url(#arrow)"/>
+    <path d="M204 560V592" marker-end="url(#arrow)"/>
+    <path d="M480 532H404V472" marker-end="url(#arrow)"/>
+  </g>
+
+  <g fill="none" stroke="#9a9a92" stroke-width="1.25">
+    <rect x="24" y="64" width="400" height="56" rx="8"/>
+    <rect x="24" y="152" width="400" height="56" rx="8"/>
+    <rect x="24" y="240" width="400" height="56" rx="8"/>
+    <rect x="24" y="416" width="400" height="56" rx="8"/>
+    <rect x="24" y="504" width="360" height="56" rx="8"/>
+    <rect x="24" y="592" width="360" height="56" rx="8"/>
+    <rect x="480" y="152" width="256" height="56" rx="8"/>
+    <rect x="480" y="240" width="256" height="56" rx="8"/>
+    <rect x="480" y="416" width="256" height="56" rx="8"/>
+    <rect x="480" y="504" width="256" height="56" rx="8"/>
+  </g>
+  <rect x="24" y="328" width="400" height="56" rx="8" fill="#2a6fdb" fill-opacity="0.12" stroke="#2a6fdb" stroke-width="2"/>
+
+  <g fill="#1f1f1d" font-weight="600">
+    <text x="40" y="88">Model sources</text>
+    <text x="40" y="176">Scout service</text>
+    <text x="40" y="264">Decentralized evaluation</text>
+    <text x="40" y="352">Governance contract (on-chain)</text>
+    <text x="40" y="440">Resource-provider node network</text>
+    <text x="40" y="528">Access layer</text>
+    <text x="40" y="616">People everywhere</text>
+    <text x="496" y="176">Community</text>
+    <text x="496" y="264">Emergency and safety council</text>
+    <text x="496" y="440">Model Version Archive</text>
+    <text x="496" y="528">Free-access pool</text>
+  </g>
+
+  <g fill="#6b6b66" font-size="11.5">
+    <text x="40" y="106">Hugging Face, community mirrors and model authors</text>
+    <text x="40" y="194">Hourly scan; safetensors only, license and size filters</text>
+    <text x="40" y="282">Random nodes, many-language tests; results on IPFS</text>
+    <text x="40" y="458">Verify weights hash; check each other; staged rollout</text>
+    <text x="40" y="546">Several gateways, IPFS front end, P2P apps</text>
+    <text x="40" y="634">Free basic access, no account needed</text>
+    <text x="496" y="194">Providers and users vote</text>
+    <text x="496" y="282">Can only pause; investigates</text>
+    <text x="496" y="458">Every approved version, on IPFS</text>
+    <text x="496" y="546">Fees, donations, grants, reserve</text>
+  </g>
+  <text x="40" y="370" font-size="11.5" fill="#1f1f1d">Proposal, 7-day vote, 48-hour timelock, activeModel</text>
+
+  <g fill="#6b6b66" font-size="11.5">
+    <text x="234" y="140">new release</text>
+    <text x="234" y="228">candidate</text>
+    <text x="234" y="316">signed report</text>
+    <text x="234" y="404">approved model</text>
+    <text x="446" y="228">votes</text>
+    <text x="618" y="316">pause</text>
+    <text x="430" y="436">weights</text>
+    <text x="214" y="492">answers</text>
+    <text x="214" y="580">no single route</text>
+    <text x="412" y="492">funds free use</text>
+  </g>
+</svg>
