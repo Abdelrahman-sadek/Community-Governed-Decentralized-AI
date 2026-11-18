@@ -2,7 +2,7 @@
 
 **Abdelrahman Sadek** · November 17, 2026 · Version 2.0
 
-📄 [Download the PDF version](community-governed-decentralized-ai.pdf)
+📄 [Download the PDF version](community-governed-decentralized-ai.pdf) · 🛠️ [Phase 0 code and quick start](docs/phase0.md)
 
 ## Abstract
 

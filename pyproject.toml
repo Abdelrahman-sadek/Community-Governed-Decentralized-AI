@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cgai"
+version = "0.1.0"
+description = "Community-Governed Decentralized AI: Phase 0 reference implementation"
+readme = "docs/phase0.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+model = ["torch>=2.2", "transformers>=4.45", "safetensors>=0.4"]
+dev = ["pytest>=8"]
+
+[project.scripts]
+cgai = "cgai.cli:main"
+
+[tool.setuptools]
+packages = ["cgai"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
